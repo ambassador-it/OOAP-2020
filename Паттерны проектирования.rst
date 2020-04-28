@@ -102,7 +102,7 @@
 
 Для классов ``A``, ``B`` и ``С`` из `файла`__ (abs_class.py) создайте базовый — абстрактный класс Base(ABC). Наследуйте его классами A, B C и проверьте работу их работу.
 
-.. __: {filename}/github.com/BosenkoTM/OOAP-2020/tree/master/code/lab12
+.. __: {filename}/OOAP-2020/code/lab12/
 
 Паттерн Singleton
 -----------------
