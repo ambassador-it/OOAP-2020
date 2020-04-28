@@ -100,8 +100,8 @@
 Упражнение №1
 ~~~~~~~~~~~~~
 
-Для классов ``A``, ``B`` и ``С`` из `файла`__ (abs_class.py) создайте базовый — абстрактный класс Base(ABC). Наследуйте его классами A, B C и проверьте работу их работу.
-.. __: https://github.com/BosenkoTM/OOAP-2020/blob/master/code/lab12/abs_class.py
+Для классов ``A``, ``B`` и ``С`` из `файла`__ (code/lab12/abs_class.py) создайте базовый — абстрактный класс Base(ABC). Наследуйте его классами A, B C и проверьте работу их работу.
+.. __: {filename}/github.com/BosenkoTM/OOAP-2020/blob/master/code/lab12/abs_class.py
 
 Паттерн Singleton
 -----------------
