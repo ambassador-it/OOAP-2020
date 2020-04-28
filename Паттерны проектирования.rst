@@ -100,9 +100,9 @@
 Упражнение №1
 ~~~~~~~~~~~~~
 
-Для классов ``A``, ``B`` и ``С`` из `файла`__ создайте базовый — абстрактный класс Base(ABC). Наследуйте его классами A, B C и проверьте работу их работу.
+Для классов ``A``, ``B`` и ``С`` из `файла`__ (abs_class.py) создайте базовый — абстрактный класс Base(ABC). Наследуйте его классами A, B C и проверьте работу их работу.
 
-.. __: {filename}/code/lab12/abs_class.py
+.. __: {filename}/https://github.com/BosenkoTM/OOAP-2020/tree/master/code/lab12
 
 Паттерн Singleton
 -----------------
@@ -327,8 +327,8 @@
         def lighten(self, grid):
             pass
 
-для проверки кода используйте (ссылка работает только из локали МФТИ):
+для проверки кода используйте ():
 
 .. code-block:: bash
 
-    wget -qO - --post-file=<filename> http://10.55.169.100:5000/adapter.py/<name>
+    wget -qO - --post-file=<filename> http://ip:port/adapter.py/<name>
