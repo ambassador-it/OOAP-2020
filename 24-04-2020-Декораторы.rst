@@ -1013,6 +1013,7 @@
 ------------
 
 Vector2D можно использовать из пакетного класса Python:
+
 .. code:: python
 	pip install vector-2d
 	from vector_2d import Vector
