@@ -138,7 +138,7 @@
 
 Вам нужно написать систему декораторов, представленную на UML-диаграмме:
 
-![Image Alt](https://github.com/BosenkoTM/OOAP-2020/raw/master/pictures/decorator_scheme.jpg)
+![Image Alt](https://github.com/BosenkoTM/OOAP-2020/blob/master/pictures/decorator_scheme.jpg)
 
 Названия наложенных положительных и отрицательных эффектов добавляются каждое в свой счетчик. Названия эффектов совпадают с названиями классов.
 
