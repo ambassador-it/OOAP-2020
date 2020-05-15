@@ -108,6 +108,7 @@
 
 Класс герой описан следующим образом (характеристики могут быть другими):
 .. code-block:: python
+
     class Hero:
         def __init__(self):
             self.positive_effects = []
@@ -158,6 +159,7 @@
 
 **Решение**:
 .. code-block:: python
+
     class AbstractEffect(Hero, ABC):
         def __init__(self, base):
             self.base = base
@@ -320,6 +322,7 @@
 
 Пример достижения, которое генерирует движок:
 .. code-block:: python
+
     {"title": "Покоритель", "text": "Дается при выполнении всех заданий в игре"}
 
 Метод `update` не должен возвращать никаких значений, он должен только изменять переменную `achievements`.
@@ -328,6 +331,7 @@
 
 **Решение**:
 .. code-block:: python
+
     from abc import ABC, abstractmethod
 
 
