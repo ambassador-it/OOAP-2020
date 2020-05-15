@@ -333,6 +333,7 @@
 Класс `Engine` реализовывать не нужно!
 
 **Решение**:
+
 .. code-block:: python
 
     from abc import ABC, abstractmethod
