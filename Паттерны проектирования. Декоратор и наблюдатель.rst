@@ -339,9 +339,4 @@
 
 Класс :python:`Engine` реализовывать не нужно!
 
-для отправки задачи исполльзуйте 
-
-.. code-block:: bash
-
-    wget -qO - --post-file=<filename> http://10.55.169.100:5000/observer.py/<name>
 
