@@ -327,8 +327,3 @@
         def lighten(self, grid):
             pass
 
-для проверки кода используйте ():
-
-.. code-block:: bash
-
-    wget -qO - --post-file=<filename> http://ip:port/adapter.py/<name>
