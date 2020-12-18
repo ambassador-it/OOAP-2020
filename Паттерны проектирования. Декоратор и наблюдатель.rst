@@ -104,6 +104,7 @@
 
 .. code-block:: python
 
+    from abc import ABC, abstractmethod
     class Hero:
         def __init__(self):
             self.positive_effects = []
